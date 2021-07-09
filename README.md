@@ -1,2 +1,2 @@
 # Maintenance Pages
-* Made by: Binary Korra
+* ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
