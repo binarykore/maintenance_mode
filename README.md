@@ -3,7 +3,7 @@
 
 ## Error Pages:
 
-### Error Pages:
+### Error Page:
 * Heroku Error Page: https://bit.ly/HerokuMaintenancePage
 * Config Variable: ERROR_PAGE_URL
 * Config Value: https://binarykorra.github.io/maintenance_mode/heroku
