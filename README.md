@@ -16,4 +16,4 @@
 * Documentations (1): https://devcenter.heroku.com/articles/maintenance-mode
 * Documentations (2): https://devcenter.heroku.com/articles/config-vars
 
-* ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
+* ( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
